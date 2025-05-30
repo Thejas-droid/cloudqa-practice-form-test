@@ -1,0 +1,22 @@
+# Ignore build and publish folders
+bin/
+obj/
+Release/
+Debug/
+*.user
+*.suo
+
+# Ignore temporary files
+*.log
+*.tmp
+*.cache
+
+# Ignore Visual Studio files
+.vs/
+.vscode/
+*.dbmdl
+*.pdb
+*.exe
+
+# Ignore test results
+TestResults/
